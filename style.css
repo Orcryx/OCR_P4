@@ -1,7 +1,7 @@
-body {img
+body {
     margin: 0;
     padding: 0;
-    background: #FFF;
+    background: #FFFFFF;
     overflow-x: hidden;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -456,7 +456,7 @@ nav .caret {
 .btn-d,
 .btn-d:hover,
 .btn-d:focus {
-    color: #FFF;
+    color: #FFFFFF;
     background: rgba(0, 0, 0, .3);
 }
 
@@ -545,7 +545,7 @@ a[data-lightbox]:hover::before {
     margin-left: -25px;
     border-radius: 50%;
     background: rgba(0, 0, 0, .6);
-    color: #FFF;
+    color: #FFFFFF;
     font-weight: 100;
     z-index: 1;
     position: absolute;
@@ -578,7 +578,7 @@ a[data-lightbox]:hover img {
 
 .lightbox-caption {
     padding: 20px;
-    color: #FFF;
+    color: #FFFFFF;
     background: rgba(0, 0, 0, .5);
     position: absolute;
     left: 15px;
@@ -587,7 +587,7 @@ a[data-lightbox]:hover img {
 }
 
 .close-lightbox {
-    color: #FFF;
+    color: #FFFFFF;
     font-size: 30px;
     position: absolute;
     top: 20px;
@@ -604,7 +604,7 @@ a[data-lightbox]:hover img {
 .next-lightbox:hover,
 .prev-lightbox:hover {
     opacity: 1.0;
-    color: #FFF;
+    color: #FFFFFF;
 }
 
 .next-lightbox,
@@ -660,6 +660,7 @@ a {
 
 .hero-bloc-text {
     font-size: 38px;
+    text-shadow: 5px 5px 5px #000000;
 }
 
 .hero-bloc-text-sub {
@@ -753,7 +754,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgba(0, 0, 0, 0.7);
     padding: 40px 40px 40px 40px;
 }
 
@@ -771,21 +772,21 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #be481a;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #be481a;
     color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
-    color: #FFFFFF!important;
+    background: #d88762!important;
+    color: #000000!important;
 }
 
 .ltc-white {
