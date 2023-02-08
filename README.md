@@ -1,6 +1,6 @@
 # OCR_P4 : La Panthère - Agence de web Design 
 
-Objectif : pptimisez un site web existant
+Objectif : optimisez un site web existant
 
 Compétences évaluées
 
